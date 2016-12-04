@@ -1,0 +1,14 @@
+{
+  "name": "node-connect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Aman Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "node-rest-client": "^2.0.1"
+  }
+}
